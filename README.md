@@ -1,0 +1,3 @@
+- 👋 Hi, my name is Trent Suzuki
+- 👀 I’m interested in signal processing and data visualization
+- 🌱 I’m currently working on a machine learning project in Surgical Robotics
